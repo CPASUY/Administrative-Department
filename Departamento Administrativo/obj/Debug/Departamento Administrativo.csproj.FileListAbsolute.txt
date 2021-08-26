@@ -1,0 +1,11 @@
+C:\Users\Financiero\source\repos\Departamento Administrativo\Departamento Administrativo\bin\Debug\Departamento Administrativo.exe.config
+C:\Users\Financiero\source\repos\Departamento Administrativo\Departamento Administrativo\bin\Debug\Departamento Administrativo.exe
+C:\Users\Financiero\source\repos\Departamento Administrativo\Departamento Administrativo\bin\Debug\Departamento Administrativo.pdb
+C:\Users\Financiero\source\repos\Departamento Administrativo\Departamento Administrativo\obj\Debug\Departamento Administrativo.csproj.AssemblyReference.cache
+C:\Users\Financiero\source\repos\Departamento Administrativo\Departamento Administrativo\obj\Debug\Departamento_Administrativo.Form1.resources
+C:\Users\Financiero\source\repos\Departamento Administrativo\Departamento Administrativo\obj\Debug\Departamento_Administrativo.Properties.Resources.resources
+C:\Users\Financiero\source\repos\Departamento Administrativo\Departamento Administrativo\obj\Debug\Departamento Administrativo.csproj.GenerateResource.cache
+C:\Users\Financiero\source\repos\Departamento Administrativo\Departamento Administrativo\obj\Debug\Departamento Administrativo.csproj.CoreCompileInputs.cache
+C:\Users\Financiero\source\repos\Departamento Administrativo\Departamento Administrativo\obj\Debug\Departamento Administrativo.exe
+C:\Users\Financiero\source\repos\Departamento Administrativo\Departamento Administrativo\obj\Debug\Departamento Administrativo.pdb
+C:\Users\Financiero\source\repos\Departamento Administrativo\Departamento Administrativo\obj\Debug\Departamento_Administrativo.Form2.resources
