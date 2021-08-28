@@ -13,6 +13,7 @@ namespace Departamento_Administrativo
 {
     public partial class Form1 : Form
     {
+        private Model model;
         public Form1()
         {
             InitializeComponent();
@@ -72,10 +73,11 @@ namespace Departamento_Administrativo
             string list = File.ReadAllText(filepath);
             string[] splitList = list.Split('\n');
             string[] splitColumn;
+            model = new Model(splitList.Length-6);
             for (int i = 1; i < splitList.Length; i++)
             {
                 splitColumn = splitList[i].Split(',');
-
+                model.addMunicipio(splitColumn);
                 dataGridView1.Rows.Add(splitColumn);
             }
         }

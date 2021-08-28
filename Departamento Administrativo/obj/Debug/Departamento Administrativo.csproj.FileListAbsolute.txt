@@ -9,3 +9,14 @@ C:\Users\Financiero\source\repos\Departamento Administrativo\Departamento Admini
 C:\Users\Financiero\source\repos\Departamento Administrativo\Departamento Administrativo\obj\Debug\Departamento Administrativo.exe
 C:\Users\Financiero\source\repos\Departamento Administrativo\Departamento Administrativo\obj\Debug\Departamento Administrativo.pdb
 C:\Users\Financiero\source\repos\Departamento Administrativo\Departamento Administrativo\obj\Debug\Departamento_Administrativo.Form2.resources
+C:\Users\User\Documents\ICESI\5to semestre\Proyecto integrador\VS workspace\TallerDotNet30Ago\Administrative-Department\Departamento Administrativo\bin\Debug\Departamento Administrativo.exe.config
+C:\Users\User\Documents\ICESI\5to semestre\Proyecto integrador\VS workspace\TallerDotNet30Ago\Administrative-Department\Departamento Administrativo\bin\Debug\Departamento Administrativo.exe
+C:\Users\User\Documents\ICESI\5to semestre\Proyecto integrador\VS workspace\TallerDotNet30Ago\Administrative-Department\Departamento Administrativo\bin\Debug\Departamento Administrativo.pdb
+C:\Users\User\Documents\ICESI\5to semestre\Proyecto integrador\VS workspace\TallerDotNet30Ago\Administrative-Department\Departamento Administrativo\obj\Debug\Departamento Administrativo.csproj.AssemblyReference.cache
+C:\Users\User\Documents\ICESI\5to semestre\Proyecto integrador\VS workspace\TallerDotNet30Ago\Administrative-Department\Departamento Administrativo\obj\Debug\Departamento_Administrativo.Form1.resources
+C:\Users\User\Documents\ICESI\5to semestre\Proyecto integrador\VS workspace\TallerDotNet30Ago\Administrative-Department\Departamento Administrativo\obj\Debug\Departamento_Administrativo.Form2.resources
+C:\Users\User\Documents\ICESI\5to semestre\Proyecto integrador\VS workspace\TallerDotNet30Ago\Administrative-Department\Departamento Administrativo\obj\Debug\Departamento_Administrativo.Properties.Resources.resources
+C:\Users\User\Documents\ICESI\5to semestre\Proyecto integrador\VS workspace\TallerDotNet30Ago\Administrative-Department\Departamento Administrativo\obj\Debug\Departamento Administrativo.csproj.GenerateResource.cache
+C:\Users\User\Documents\ICESI\5to semestre\Proyecto integrador\VS workspace\TallerDotNet30Ago\Administrative-Department\Departamento Administrativo\obj\Debug\Departamento Administrativo.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ICESI\5to semestre\Proyecto integrador\VS workspace\TallerDotNet30Ago\Administrative-Department\Departamento Administrativo\obj\Debug\Departamento Administrativo.exe
+C:\Users\User\Documents\ICESI\5to semestre\Proyecto integrador\VS workspace\TallerDotNet30Ago\Administrative-Department\Departamento Administrativo\obj\Debug\Departamento Administrativo.pdb
