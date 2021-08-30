@@ -4,26 +4,17 @@
 winexe
 C#
 .cs
-<<<<<<< HEAD
-C:\Users\Financiero\source\repos\Departamento Administrativo\Department_of_Statistics\obj\Debug\
-=======
-C:\Users\User\Documents\ICESI\5to semestre\Proyecto integrador\VS workspace\TallerDotNet30Ago\Administrative-Department\Department_of_Statistics\obj\Debug\
->>>>>>> fad8ca57cb25dfbfa2ed1ad88f04e14bdc6f5d63
+C:\Users\Financiero\source\repos\Administrative-Department\Department_of_Statistics\obj\Debug\
 Department_of_Statistics
 none
 false
 DEBUG;TRACE
-<<<<<<< HEAD
-C:\Users\Financiero\source\repos\Departamento Administrativo\Department_of_Statistics\App.xaml
-2462529049
-=======
-C:\Users\User\Documents\ICESI\5to semestre\Proyecto integrador\VS workspace\TallerDotNet30Ago\Administrative-Department\Department_of_Statistics\App.xaml
+C:\Users\Financiero\source\repos\Administrative-Department\Department_of_Statistics\App.xaml
 3-85327526
->>>>>>> fad8ca57cb25dfbfa2ed1ad88f04e14bdc6f5d63
 
 11-137628424
-15-1097918636
+17569299434
 MainWindow.xaml;Window1.xaml;Window2.xaml;
 
-False
+True
 

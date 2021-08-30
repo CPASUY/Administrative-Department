@@ -24,3 +24,27 @@ C:\Users\User\Documents\ICESI\5to semestre\Proyecto integrador\VS workspace\Tall
 C:\Users\User\Documents\ICESI\5to semestre\Proyecto integrador\VS workspace\TallerDotNet30Ago\Administrative-Department\Department_of_Statistics\obj\Debug\Department_of_Statistics_MarkupCompile.lref
 C:\Users\User\Documents\ICESI\5to semestre\Proyecto integrador\VS workspace\TallerDotNet30Ago\Administrative-Department\Department_of_Statistics\obj\Debug\Department_of_Statistics.exe
 C:\Users\User\Documents\ICESI\5to semestre\Proyecto integrador\VS workspace\TallerDotNet30Ago\Administrative-Department\Department_of_Statistics\obj\Debug\Department_of_Statistics.pdb
+C:\Users\Financiero\source\repos\Administrative-Department\Department_of_Statistics\bin\Debug\Department_of_Statistics.exe.config
+C:\Users\Financiero\source\repos\Administrative-Department\Department_of_Statistics\bin\Debug\Department_of_Statistics.exe
+C:\Users\Financiero\source\repos\Administrative-Department\Department_of_Statistics\bin\Debug\Department_of_Statistics.pdb
+C:\Users\Financiero\source\repos\Administrative-Department\Department_of_Statistics\obj\Debug\Department_of_Statistics.csproj.AssemblyReference.cache
+C:\Users\Financiero\source\repos\Administrative-Department\Department_of_Statistics\obj\Debug\MainWindow.g.cs
+C:\Users\Financiero\source\repos\Administrative-Department\Department_of_Statistics\obj\Debug\Window1.g.cs
+C:\Users\Financiero\source\repos\Administrative-Department\Department_of_Statistics\obj\Debug\Window2.g.cs
+C:\Users\Financiero\source\repos\Administrative-Department\Department_of_Statistics\obj\Debug\App.g.cs
+C:\Users\Financiero\source\repos\Administrative-Department\Department_of_Statistics\obj\Debug\Department_of_Statistics_MarkupCompile.cache
+C:\Users\Financiero\source\repos\Administrative-Department\Department_of_Statistics\obj\Debug\Department_of_Statistics_MarkupCompile.lref
+C:\Users\Financiero\source\repos\Administrative-Department\Department_of_Statistics\obj\Debug\MainWindow.baml
+C:\Users\Financiero\source\repos\Administrative-Department\Department_of_Statistics\obj\Debug\Window1.baml
+C:\Users\Financiero\source\repos\Administrative-Department\Department_of_Statistics\obj\Debug\Window2.baml
+C:\Users\Financiero\source\repos\Administrative-Department\Department_of_Statistics\obj\Debug\Department_of_Statistics.g.resources
+C:\Users\Financiero\source\repos\Administrative-Department\Department_of_Statistics\obj\Debug\Department_of_Statistics.Properties.Resources.resources
+C:\Users\Financiero\source\repos\Administrative-Department\Department_of_Statistics\obj\Debug\Department_of_Statistics.csproj.GenerateResource.cache
+C:\Users\Financiero\source\repos\Administrative-Department\Department_of_Statistics\obj\Debug\Department_of_Statistics.csproj.CoreCompileInputs.cache
+C:\Users\Financiero\source\repos\Administrative-Department\Department_of_Statistics\obj\Debug\Department_of_Statistics.csproj.CopyComplete
+C:\Users\Financiero\source\repos\Administrative-Department\Department_of_Statistics\obj\Debug\Department_of_Statistics.exe
+C:\Users\Financiero\source\repos\Administrative-Department\Department_of_Statistics\obj\Debug\Department_of_Statistics.pdb
+C:\Users\Financiero\source\repos\Administrative-Department\Department_of_Statistics\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Financiero\source\repos\Administrative-Department\Department_of_Statistics\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Financiero\source\repos\Administrative-Department\Department_of_Statistics\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Financiero\source\repos\Administrative-Department\Department_of_Statistics\bin\Debug\WPFToolkit.dll
