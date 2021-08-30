@@ -61,7 +61,24 @@ namespace Department_of_Statistics
             }
             return result;
         }
-
+        public List<string> getDptNames()
+        {
+            List<string> res = new List<string>();
+            for(int i=0; i < departments.Count; i++)
+            {
+                res.Add(departments[i].getName());
+            }
+            return res;
+        }
+        public List<int> getMcpAmounts()
+        {
+            List<int> res = new List<int>();
+            for (int i = 0; i < departments.Count; i++)
+            {
+                res.Add(departments[i].getMunicipalities().Count);
+            }
+            return res;
+        }
 
     }
 }

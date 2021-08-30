@@ -66,7 +66,9 @@ namespace Department_of_Statistics
 
         private void graphMunicipiesScreen_Click(object sender, RoutedEventArgs e)
         {
-
+            Window2 w2 = new Window2();
+            w2.setInfo(country);
+            w2.Show();
         }
 
         private void begginsLetterScreen_Click(object sender, RoutedEventArgs e)
