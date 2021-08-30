@@ -15,3 +15,12 @@ C:\Users\Financiero\source\repos\Department_of_Statistics\Department_of_Statisti
 C:\Users\Financiero\source\repos\Department_of_Statistics\Department_of_Statistics\obj\Debug\Department_of_Statistics.pdb
 C:\Users\Financiero\source\repos\Department_of_Statistics\Department_of_Statistics\obj\Debug\Window1.g.cs
 C:\Users\Financiero\source\repos\Department_of_Statistics\Department_of_Statistics\obj\Debug\Window1.baml
+C:\Users\User\Documents\ICESI\5to semestre\Proyecto integrador\VS workspace\TallerDotNet30Ago\Administrative-Department\Department_of_Statistics\obj\Debug\Department_of_Statistics.csproj.AssemblyReference.cache
+C:\Users\User\Documents\ICESI\5to semestre\Proyecto integrador\VS workspace\TallerDotNet30Ago\Administrative-Department\Department_of_Statistics\obj\Debug\MainWindow.g.cs
+C:\Users\User\Documents\ICESI\5to semestre\Proyecto integrador\VS workspace\TallerDotNet30Ago\Administrative-Department\Department_of_Statistics\obj\Debug\Window1.g.cs
+C:\Users\User\Documents\ICESI\5to semestre\Proyecto integrador\VS workspace\TallerDotNet30Ago\Administrative-Department\Department_of_Statistics\obj\Debug\Window2.g.cs
+C:\Users\User\Documents\ICESI\5to semestre\Proyecto integrador\VS workspace\TallerDotNet30Ago\Administrative-Department\Department_of_Statistics\obj\Debug\App.g.cs
+C:\Users\User\Documents\ICESI\5to semestre\Proyecto integrador\VS workspace\TallerDotNet30Ago\Administrative-Department\Department_of_Statistics\obj\Debug\Department_of_Statistics_MarkupCompile.cache
+C:\Users\User\Documents\ICESI\5to semestre\Proyecto integrador\VS workspace\TallerDotNet30Ago\Administrative-Department\Department_of_Statistics\obj\Debug\Department_of_Statistics_MarkupCompile.lref
+C:\Users\User\Documents\ICESI\5to semestre\Proyecto integrador\VS workspace\TallerDotNet30Ago\Administrative-Department\Department_of_Statistics\obj\Debug\Department_of_Statistics.exe
+C:\Users\User\Documents\ICESI\5to semestre\Proyecto integrador\VS workspace\TallerDotNet30Ago\Administrative-Department\Department_of_Statistics\obj\Debug\Department_of_Statistics.pdb
